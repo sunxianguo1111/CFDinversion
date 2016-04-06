@@ -3,6 +3,7 @@
 *.bin
 Debug/
 Result/
+test/
 x64/
 *.vcxproj
 *.vcxproj.*
